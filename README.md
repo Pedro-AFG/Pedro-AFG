@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pedro-AFG
-- 👀 I’m interested in applying for an internship.
+- 👀 I’m interested in improving my skills as a programmer !!
 - 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on ...
+- 💼 I’m looking for an internship !!
 - 📫 How to reach me --> pafgonzaga@gmail.com
 
 <!---
