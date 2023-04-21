@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pedro-AFG
 - 👀 I’m interested in improving my skills as a programmer !!
-- 🌱 I’m currently learning JavaScript and Python.
-- 💼 I’m looking for an internship !!
+- 🌱 I’m currently learning Java.
+- 💼 I’m currently working as a Back-End Developer !!
 - 📫 How to reach me --> pafgonzaga@gmail.com
 
 <!---
